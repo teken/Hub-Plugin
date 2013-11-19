@@ -1,0 +1,11 @@
+name: Tekens Hub World
+version: 1.0
+description: Hides people in the hub
+author: Teken
+main: Teken.hubworld.main
+commands:
+    hubreload:
+        description: Fuck Off
+        usage: </command> arguments
+        permission: Teken.Hub.Reload
+        permission-message: Fuck Off
